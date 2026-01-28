@@ -1,8 +1,6 @@
 ﻿{
   "name": "multi-aventura-pro",
   "version": "0.0.1",
-  "private": true,
-  "type": "module",
   "homepage": "https://AllanGrc.github.io/MultiAventura-PRO",
   "scripts": {
     "dev": "vite",
@@ -21,6 +19,6 @@
     "@vitejs/plugin-react": "^4.3.1",
     "gh-pages": "^6.2.0",
     "typescript": "^5.5.4",
-    "vite": "^5.4.1"
+    "vite": "^6.2.0"
   }
 }
