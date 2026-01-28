@@ -1,21 +1,26 @@
-{
-  "name": "multiaventura-pro",
+﻿{
+  "name": "multi-aventura-pro",
+  "version": "0.0.1",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
+  "homepage": "https://AllanGrc.github.io/MultiAventura-PRO",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "@types/react": "^18.3.5",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "gh-pages": "^6.2.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.4.1"
   }
 }
