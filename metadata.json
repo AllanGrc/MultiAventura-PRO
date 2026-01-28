@@ -1,0 +1,6 @@
+
+{
+  "name": "MultiAventura PRO",
+  "description": "MultiAventura PRO is an educational game designed to help children learn multiplication tables through an interactive and engaging adventure. Players can select avatars, progress through levels, earn coins, and track their progress. It supports dark mode, mute functionality, and a leaderboard. This application is structured as a Progressive Web App (PWA), making it installable on devices for an app-like experience, fully functional offline, and easily distributable without app store fees.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,91 @@
+Fecha: Tue 01/27/2026 19:22:16.65 
+Carpeta: C:\Users\MSI\Desktop\New folder 
+ 
+================================= 
+ESTRUCTURA COMPLETA 
+================================= 
+ 
+ Volume in drive C has no label.
+ Volume Serial Number is 906A-5FB2
+
+ Directory of C:\Users\MSI\Desktop\New folder
+
+01/27/2026  07:22 PM    <DIR>          .
+01/27/2026  07:22 PM    <DIR>          ..
+01/28/2026  01:07 AM                35 .env.local
+01/28/2026  01:07 AM               253 .gitignore
+01/28/2026  01:07 AM            10,104 App.tsx
+01/28/2026  01:07 AM    <DIR>          audios
+01/28/2026  01:07 AM    <DIR>          components
+01/28/2026  01:07 AM             2,518 constants.ts
+01/27/2026  07:22 PM               179 estructura_2701Tue_192216.txt
+01/26/2026  11:27 PM             1,157 EXPLORADOR DE ESTRUCTURA DE CARPETAS.bat
+01/28/2026  01:07 AM             1,009 index.css
+01/28/2026  01:07 AM             1,440 index.html
+01/28/2026  01:07 AM             1,225 index.tsx
+01/28/2026  01:07 AM         1,237,681 logo2.png
+01/28/2026  01:07 AM               524 manifest.json
+01/28/2026  01:07 AM               581 metadata.json
+01/28/2026  01:07 AM               413 package.json
+01/28/2026  01:07 AM               553 README.md
+01/28/2026  01:07 AM             3,171 service-worker.js
+01/28/2026  01:07 AM    <DIR>          services
+01/28/2026  01:07 AM               542 tsconfig.json
+01/28/2026  01:07 AM               967 types.ts
+01/28/2026  01:07 AM               580 vite.config.ts
+              18 File(s)      1,262,932 bytes
+
+ Directory of C:\Users\MSI\Desktop\New folder\audios
+
+01/28/2026  01:07 AM    <DIR>          .
+01/27/2026  07:22 PM    <DIR>          ..
+01/28/2026  01:07 AM             5,565 amazing.mp3
+01/28/2026  01:07 AM            10,029 checkagain.mp3
+01/28/2026  01:07 AM             4,269 cool.mp3
+01/28/2026  01:07 AM             5,565 dontgiveup.mp3
+01/28/2026  01:07 AM             5,565 excellent.mp3
+01/28/2026  01:07 AM             6,861 iamsorry.mp3
+01/28/2026  01:07 AM             7,581 ibelieveinyou.mp3
+01/28/2026  01:07 AM             7,581 maybenexttime.mp3
+01/28/2026  01:07 AM             5,853 nicetry.mp3
+01/28/2026  01:07 AM             5,133 ooops.mp3
+01/28/2026  01:07 AM             9,885 oops-try-again.mp3
+01/28/2026  01:07 AM             6,285 tryagain.mp3
+01/28/2026  01:07 AM             6,285 waytogo.mp3
+01/28/2026  01:07 AM             4,989 welcome.mp3
+01/28/2026  01:07 AM             6,573 welcomeback.mp3
+01/28/2026  01:07 AM             5,853 younailedit.mp3
+              16 File(s)        103,872 bytes
+
+ Directory of C:\Users\MSI\Desktop\New folder\components
+
+01/28/2026  01:07 AM    <DIR>          .
+01/27/2026  07:22 PM    <DIR>          ..
+01/28/2026  01:07 AM             1,907 FeedbackMessage.tsx
+01/28/2026  01:07 AM             1,968 Header.tsx
+01/28/2026  01:07 AM    <DIR>          screens
+01/28/2026  01:07 AM             3,093 SideMenu.tsx
+               3 File(s)          6,968 bytes
+
+ Directory of C:\Users\MSI\Desktop\New folder\components\screens
+
+01/28/2026  01:07 AM    <DIR>          .
+01/28/2026  01:07 AM    <DIR>          ..
+01/28/2026  01:07 AM             7,687 GameScreen.tsx
+01/28/2026  01:07 AM             2,377 LeaderboardScreen.tsx
+01/28/2026  01:07 AM             5,886 LoginScreen.tsx
+01/28/2026  01:07 AM             2,341 MapScreen.tsx
+01/28/2026  01:07 AM             5,587 StoreScreen.tsx
+               5 File(s)         23,878 bytes
+
+ Directory of C:\Users\MSI\Desktop\New folder\services
+
+01/28/2026  01:07 AM    <DIR>          .
+01/27/2026  07:22 PM    <DIR>          ..
+01/28/2026  01:07 AM            72,554 assets.ts
+01/28/2026  01:07 AM               276 audioService.ts
+               2 File(s)         72,830 bytes
+
+     Total Files Listed:
+              44 File(s)      1,470,480 bytes
+              14 Dir(s)  80,851,939,328 bytes free
